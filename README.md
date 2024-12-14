@@ -11,8 +11,8 @@ soluções para desafios reais.
 
 ## 🔧 Minhas Habilidades
 
-- **Linguagens de Programação**: HTML, CSS, JavaScript, React
-- **Desenvolvimento Web**: Criação de interfaces responsivas e bem estruturadas
+- **Linguagens de Programação**: HTML, CSS, JavaScript e React.
+- **Desenvolvimento Web**: Criação de interfaces responsivas e bem estruturadas.
 - **Formações**:
   - DEVCLUB em FrontEnd
   - Alura em FrontEnd
@@ -38,7 +38,7 @@ soluções para desafios reais.
   estruturação de código e design responsivo.
 
 Você pode explorar mais projetos nos meus
-repositórios → [Veja todos os projetos](https://github.com/seu_usuario?tab=repositories)
+repositórios → [Veja todos os projetos](https://github.com/EliasRibeiro220370?tab=repositories)
 
 ---
 
