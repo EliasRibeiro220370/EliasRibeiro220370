@@ -25,7 +25,7 @@ soluções para desafios reais.
 - **Descrição**: Meu primeiro projeto,
   onde criei uma página para apresentar
   minhas habilidades, formações e projetos.
-- **Tecnologias Utilizadas**: HTML, CSS, JavaScript.
+- **Tecnologias Utilizadas**: HTML, CSS e JavaScript.
 - **Destaque**: Estrutura simples e funcional
   para exibir meu trabalho de maneira profissional.
 
@@ -33,7 +33,7 @@ soluções para desafios reais.
 - **Descrição**: Projeto desenvolvido durante o
   curso na plataforma Alura, focado na criação de
   uma página responsiva e bem estruturada.
-- **Tecnologias Utilizadas**: HTML, CSS.
+- **Tecnologias Utilizadas**: HTML, CSS e JavaScript.
 - **Destaque**: Aprendizado de boas práticas de
   estruturação de código e design responsivo.
 
