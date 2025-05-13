@@ -14,7 +14,7 @@ soluções para desafios reais.
 - **Linguagens de Programação**: HTML, CSS, JavaScript e React.
 - **Desenvolvimento Web**: Criação de interfaces responsivas e bem estruturadas.
 - **Formações**:
-  - DEVCLUB em FrontEnd
+  - DevClub em FrontEnd
   - Alura em FrontEnd
 
 ---
