@@ -54,7 +54,7 @@ repositórios → [Veja todos os projetos](https://github.com/EliasRibeiro220370
 
 - **Email**: [eliasribeiro220370@gmail.com](mailto:eliasribeiro220370@gmail.com)
 - **LinkedIn**: [linkedin.com/in/seuperfil](https://linkedin.com/in/elias-dev-frontend)
-- **Portfólio**: [seusite.com](https://seusite.com)
+- **Portfólio**: [seusite.com](https://eliasribeiro220370.github.io/meu-site/)
 
 Estou sempre aberto a colaborações,
 feedbacks ou simplesmente bater um
