@@ -5,7 +5,7 @@ Desenvolvedor Front-end apaixonado por criar aplicações modernas,
 performáticas e responsivas utilizando React, TypeScript,
 JavaScript e Node.js.
 
-Após quase 30 anos atuando como eletricista automotivo,
+Após quase 30 anos atuando como eletricista automotivo, no decorrer da pademia 
 descobri minha paixão pelo desenvolvimento de software
 durante a construção de uma ferramenta utilizando Arduino e C++.
 
