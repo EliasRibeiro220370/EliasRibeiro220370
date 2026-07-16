@@ -1,68 +1,94 @@
 
 # Olá! Bem-vindo ao meu GitHub 👋
 
-Sou Elias Ribeiro, apaixonado por tecnologia,
-inovação e resolver problemas através da programação.
-Aqui você encontrará projetos que desenvolvi para 
-explorar novas ideias, aprender tecnologias e criar
-soluções para desafios reais.
+Sou Elias Ribeiro, apaixonado por tecnologia, inovações e por resolver problemas através da programação. Aqui você encontrará projetos desenvolvidos para explorar ideias, aprender tecnologias e criar soluções para desafios reais.
 
 ---
 
 ## 🔧 Minhas Habilidades
 
-- **Linguagens de Programação**: HTML, CSS, JavaScript e React.
-- **Desenvolvimento Web**: Criação de interfaces responsivas e bem estruturadas.
-- **Formações**:
-  - DevClub em FrontEnd
-  - Alura em FrontEnd
+### 💻 Linguagens e Frameworks
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="Arduino" />
+</p>
+
+### 🎓 Formações e Certificados
+* **DevClub** — Especialização em Desenvolvimento FrontEnd
+* **Alura** — Formações em Desenvolvimento FrontEnd
 
 ---
 
 ## 🌐 Projetos em Destaque
 
-### [Portfólio Pessoal](#)
-- **Descrição**: Meu primeiro projeto,
-  onde criei uma página para apresentar
-  minhas habilidades, formações e projetos.
-- **Tecnologias Utilizadas**: HTML, CSS e JavaScript.
-- **Destaque**: Estrutura simples e funcional
-  para exibir meu trabalho de maneira profissional.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📁 Portfólio Pessoal</h3>
+      <p>Página pessoal desenvolvida para apresentar minhas habilidades, formações e projetos de maneira clara e profissional.</p>
+      <p>
+        <img src="https://shields.io" />
+        <img src="https://shields.io" />
+        <img src="https://shields.io" />
+      </p>
+      <a href="https://eliasribeiro220370.github.io/meu-site/">🔗 Visitar Projeto</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📁 Alura Plus</h3>
+      <p>Interface responsiva inspirada no Alura Plus, focada na aplicação prática de design responsivo e boas práticas de semântica.</p>
+      <p>
+        <img src="https://shields.io" />
+        <img src="https://shields.io" />
+      </p>
+      <a href="#">🔗 Visitar Projeto</a>
+    </td>
+  </tr>
+</table>
 
-### [Alura Plus](#)
-- **Descrição**: Projeto desenvolvido durante o
-  curso na plataforma Alura, focado na criação de
-  uma página responsiva e bem estruturada.
-- **Tecnologias Utilizadas**: HTML, CSS e JavaScript.
-- **Destaque**: Aprendizado de boas práticas de
-  estruturação de código e design responsivo.
+<br />
 
-Você pode explorar mais projetos nos meus
-repositórios → [Veja todos os projetos](https://github.com/EliasRibeiro220370?tab=repositories)
+👉 _Confira a lista completa de projetos nos meus [Repositórios Públicos](https://github.com/EliasRibeiro220370?tab=repositories)._
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub de Elias" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 📚 **Atualmente aprendendo**: React e aperfeiçoando habilidades em JavaScript
-- 💡 **Objetivo profissional**: Tornar-me um desenvolvedor FrontEnd altamente qualificado
-- 🌐 **Outros interesses**: [Ainda sobre tecnologia... Sou apaixonado por C++ e Arduino].
+* 📚 **Foco Atual**: Aperfeiçoando conceitos avançados de **React** e **JavaScript**.
+* 💡 **Objetivo**: Atuar como Desenvolvedor FrontEnd construindo interfaces modernas.
+* ⚡ **Outros Interesses**: Entusiasta de **C++** e projetos de robótica/automação com **Arduino**.
 
 ---
 
-## ☑️ Entre em Contato
+## ☑️ Vamos Conversar?
 
-- **Email**: [eliasribeiro220370@gmail.com](mailto:eliasribeiro220370@gmail.com)
-- **LinkedIn**: [linkedin.com/in/seuperfil](https://linkedin.com/in/elias-dev-frontend)
-- **Portfólio**: [seusite.com](https://eliasribeiro220370.github.io/meu-site/)
+<p align="left">
+  <a href="https://linkedin.com/in/elias-dev-frontend" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:eliasribeiro220370@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://eliasribeiro220370.github.io/meu-site/" target="_blank">
+    <img src="https://shields.io" alt="Portfólio" />
+  </a>
+</p>
 
-Estou sempre aberto a colaborações,
-feedbacks ou simplesmente bater um
-papo sobre tecnologia.
-Fique à vontade para me chamar! 
+Estou sempre aberto a colaborações, feedbacks ou simplesmente bater um papo sobre tecnologia. Fique à vontade para me chamar!
 
----
+<br />
 
 _"A tecnologia é uma ferramenta poderosa para transformar ideias em realidade."_
-
 
