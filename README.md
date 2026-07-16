@@ -22,7 +22,7 @@ Hoje desenvolvo soluções para empresas reais, projetos próprios e aplicaçõe
 
 ---
 
-> "A tecnologia é uma ferramenta poderosa para transformar ideias em realidade."
+ "A tecnologia é uma ferramenta poderosa para transformar ideias em realidade."
 
 
 
