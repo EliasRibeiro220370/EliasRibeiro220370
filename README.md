@@ -1,11 +1,12 @@
 
 # Olá, eu sou Elias Ribeiro Beserra 👋
 
-### ⚡ Desenvolvedor Front-end | Transformando Ideias em Código
+Desenvolvedor Front-end apaixonado por criar aplicações modernas, performáticas e responsivas utilizando HTML, CSS, React, TypeScript, Tailwind CSS, JavaScript e Node.js.
 
-Desenvolvedor Front-end apaixonado por criar aplicações modernas, performáticas e responsivas utilizando o ecossistema JavaScript e tecnologias de inteligência artificial.
+Após quase 30 anos atuando como eletricista automotivo, no decorrer da pandemia descobri minha paixão pelo desenvolvimento de software durante a construção de uma ferramenta utilizando Arduino e C++.
 
-Após quase 30 anos atuando como eletricista automotivo, no decorrer da pandemia descobri minha paixão pelo desenvolvimento de software durante a construção de uma ferramenta utilizando Arduino e C++. Hoje, aplico essa bagagem de resolução de problemas reais para criar soluções voltadas para negócios e experiências digitais incríveis.
+Hoje desenvolvo soluções para empresas reais, projetos próprios e aplicações voltadas para negócios.
+
 
 ---
 
