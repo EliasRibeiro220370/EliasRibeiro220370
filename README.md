@@ -26,7 +26,7 @@ Hoje desenvolvo soluções para empresas reais, projetos próprios e aplicaçõe
 
 ---
 
-### <img src="https://githubusercontent.com" alt="Speech Balloon" width="25" height="25" /> Conecte-se Comigo
+### <img src="https://githubusercontent.com" default="💬" alt="Speech Balloon" width="25" height="25" /> Conecte-se Comigo
 
 A tecnologia é uma ferramenta poderosa para transformar ideias em realidade. Vamos construir algo juntos?
 
