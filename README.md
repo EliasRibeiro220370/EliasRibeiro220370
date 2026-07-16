@@ -10,7 +10,7 @@ Hoje desenvolvo soluções para empresas reais, projetos próprios e aplicaçõe
 
 ---
 
-### <img src="https://githubusercontent.com" alt="Wrench" width="25" height="25" /> Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://shields.io" alt="React" />
