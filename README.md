@@ -6,10 +6,9 @@ Após quase 30 anos atuando como eletricista automotivo, no decorrer da pandemia
 
 Hoje desenvolvo soluções para empresas reais, projetos próprios e aplicações voltadas para negócios.
 
-
 ---
 
-### Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://shields.io" alt="React" />
@@ -26,7 +25,7 @@ Hoje desenvolvo soluções para empresas reais, projetos próprios e aplicaçõe
 
 ---
 
-### <img src="https://githubusercontent.com" default="💬" alt="Speech Balloon" width="25" height="25" /> Conecte-se Comigo
+### 💬 Conecte-se Comigo
 
 A tecnologia é uma ferramenta poderosa para transformar ideias em realidade. Vamos construir algo juntos?
 
@@ -35,6 +34,7 @@ A tecnologia é uma ferramenta poderosa para transformar ideias em realidade. Va
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </div>
+
 
 
 
