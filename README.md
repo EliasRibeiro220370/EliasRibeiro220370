@@ -1,5 +1,5 @@
 
-# <img src="https://githubusercontent.com" alt="Waving Hand" width="40" height="40" /> Olá, eu sou Elias Ribeiro Beserra
+# Olá, eu sou Elias Ribeiro Beserra 👋
 
 ### ⚡ Desenvolvedor Front-end | Transformando Ideias em Código
 
