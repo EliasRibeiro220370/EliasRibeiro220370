@@ -2,7 +2,7 @@
 Olá, eu sou Elias Ribeiro Beserra 👋
 
 Desenvolvedor Front-end apaixonado por criar aplicações modernas,
-performáticas e responsivas utilizando React, TypeScript,
+performáticas e responsivas utilizando Html, Css, React, TypeScript, Tailwind Css,
 JavaScript e Node.js.
 
 Após quase 30 anos atuando como eletricista automotivo, no decorrer da pademia 
