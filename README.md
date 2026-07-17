@@ -36,9 +36,11 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 
 ### 🛠️ Bagagem de Origem (Hardware & Automação)
 <p align="left">
+ <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" height="50" alt="c++ logo" />
   <img width="12" />
   <img src="https://shields.io" alt="Arduino" />
+ </div> 
 </p>
 
 ### 🎓 Formações e Certificados
