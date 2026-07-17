@@ -87,7 +87,7 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 
 <p align="left">
   <a href="mailto:eliasribeiro220370@gmail.com" target="_blank">
-    <a href="https://www.flaticon.com/br/icones-gratis/gmail" title="gmail ícones">Gmail ícones criados por Driss Lebbat - Flaticon</a>
+    <i class="fa-thin fa-envelope"></i>
   </a>
 </p>
 
