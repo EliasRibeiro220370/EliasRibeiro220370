@@ -39,7 +39,8 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
  <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" height="50" alt="c++ logo" />
   <img width="12" />
-  <img src="https://shields.io" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo" />
+  <img width="12" />
  </div> 
 </p>
 
