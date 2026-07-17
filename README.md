@@ -58,12 +58,13 @@ Site institucional desenvolvido para a Fábrica Maniele, com foco em performance
 Tecnologias: React • TypeScript • Vite • Tailwind CSS • Framer Motion • Supabase
 
 🔗 **Acessar Projeto:** https://www.maniele.com.br
-      <h3>📁 Alura Plus</h3>
-      <p>Interface responsiva inspirada no Alura Plus, focada na aplicação prática de design responsivo e boas práticas de semântica.</p>
-      <p>
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-      </p>
+      <h3>📁 OficinaPro</h3>
+
+Sistema web para gerenciamento de oficinas automotivas, desenvolvido a partir da experiência adquirida em quase 30 anos na área automotiva.
+
+**Tecnologias:** React • TypeScript • Node.js • Supabase
+
+🔗 **Repositório:** https://github.com/EliasRibeiro220370/OficinaPro
       <a href="#">🔗 Visitar Projeto</a>
     </td>
   </tr>
