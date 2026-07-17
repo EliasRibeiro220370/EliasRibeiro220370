@@ -40,7 +40,7 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
 </div>
-### 🎓 Formações e Certificados
+ 🎓 Formações e Certificados
 * **DevClub** — Especialização em Desenvolvimento FrontEnd
 * **Alura** — Formações em Desenvolvimento FrontEnd
 
