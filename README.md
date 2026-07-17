@@ -28,6 +28,7 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+   <img src="https://skillicons.dev" height="60" alt="supabase logo"  />
 </div> 
 </p>
 
