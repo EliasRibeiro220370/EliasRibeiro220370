@@ -49,25 +49,7 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 ## 🌐 Projetos em Destaque
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📁 Loja Maniele</h3>
-
-Site institucional desenvolvido para a Fábrica Maniele, com foco em performance, responsividade, catálogo digital e integração com Supabase.
-
-Tecnologias: React • TypeScript • Vite • Tailwind CSS • Framer Motion • Supabase
-
-🔗 **Acessar Projeto:** https://www.maniele.com.br
-      <h3>📁 OficinaPro</h3>
-
-Sistema web para gerenciamento de oficinas automotivas, desenvolvido a partir da experiência adquirida em quase 30 anos na área automotiva.
-
-**Tecnologias:** React • TypeScript • Node.js • Supabase
-
-🔗 **Repositório:** https://github.com/EliasRibeiro220370/OficinaPro
-      <a href="#">🔗 Visitar Projeto</a>
-    </td>
-  </tr>
+  
 </table>
 
 <br />
