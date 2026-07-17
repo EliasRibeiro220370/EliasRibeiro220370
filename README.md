@@ -51,16 +51,13 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📁 Portfólio Pessoal</h3>
-      <p>Página pessoal desenvolvida para apresentar minhas habilidades, formações e projetos de maneira clara e profissional.</p>
-      <p>
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-        <img src="https://shields.io" />
-      </p>
-      <a href="https://github.io">🔗 Visitar Projeto</a>
-    </td>
-    <td width="50%" valign="top">
+      <h3>📁 Loja Maniele</h3>
+
+Site institucional desenvolvido para a Fábrica Maniele, com foco em performance, responsividade, catálogo digital e integração com Supabase.
+
+**Tecnologias:** React • TypeScript • Vite • Tailwind CSS • Framer Motion • Supabase
+
+🔗 **Acessar Projeto:** https://www.maniele.com.br
       <h3>📁 Alura Plus</h3>
       <p>Interface responsiva inspirada no Alura Plus, focada na aplicação prática de design responsivo e boas práticas de semântica.</p>
       <p>
