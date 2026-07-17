@@ -86,14 +86,8 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 ## ☑️ Vamos Conversar?
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
   <a href="mailto:eliasribeiro220370@gmail.com" target="_blank">
     <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://github.io" target="_blank">
-    <img src="https://shields.io" alt="Portfólio" />
   </a>
 </p>
 
