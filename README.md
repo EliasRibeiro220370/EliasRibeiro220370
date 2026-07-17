@@ -87,7 +87,8 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 
 <p align="left">
   <a href="mailto:eliasribeiro220370@gmail.com" target="_blank">
-   <img src="https://unpkg.com[supabase].svg" height="32" width="32" />
+   <img src="https://unpkg.com" height="32" width="32" alt="Supabase Logo" />
+
   </a>
 </p>
 
