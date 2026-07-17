@@ -1,8 +1,5 @@
 <h1 data-importer="text" align="center">Olá!👋 Sejam Bem Vindos ao Meu Github!</h1>
 
-###
-# Olá! Bem-vindo ao meu GitHub 👋
-
 Sou Elias Ribeiro, desenvolvedor focado em tecnologias Front-End. Minha jornada na programação começou de forma prática: atuando como **eletricista automotivo**, precisei desenvolver uma ferramenta própria para o trabalho. Foi utilizando **C++ e Arduino** para criar essa solução que descobri minha paixão pelo código e decidi migrar para o desenvolvimento de software.
 
 Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problemas para construir interfaces web modernas, funcionais e responsivas.
