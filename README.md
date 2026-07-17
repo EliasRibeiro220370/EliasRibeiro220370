@@ -22,7 +22,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="left">👩‍💻  Sobre Mim</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h3 data-importer="text" align="left">🛠 Linguagem e ferramentas</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">🔥   Minhas estatísticas :</h3>
 
 ###
 
@@ -65,8 +65,6 @@
 </div>
 
 ###
-
----
 
 ### 💬 Conecte-se Comigo
 
