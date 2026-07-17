@@ -10,10 +10,7 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 
 ### 💻 Tecnologias Web (Foco Atual)
 <p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
+  
 </p>
 
 ### 🛠️ Bagagem de Origem (Hardware & Automação)
