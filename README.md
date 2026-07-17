@@ -55,7 +55,7 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 
 Site institucional desenvolvido para a Fábrica Maniele, com foco em performance, responsividade, catálogo digital e integração com Supabase.
 
-**Tecnologias:** React • TypeScript • Vite • Tailwind CSS • Framer Motion • Supabase
+Tecnologias: React • TypeScript • Vite • Tailwind CSS • Framer Motion • Supabase
 
 🔗 **Acessar Projeto:** https://www.maniele.com.br
       <h3>📁 Alura Plus</h3>
