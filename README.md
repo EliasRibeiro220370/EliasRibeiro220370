@@ -49,7 +49,35 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 ## 🌐 Projetos em Destaque
 
 <table>
-  
+  <table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🏖️ Fábrica Maniele
+
+Site institucional desenvolvido para a Fábrica Maniele.
+
+**React • TypeScript • Supabase**
+
+<a href="https://www.maniele.com.br">🌐 Visitar Projeto</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔧 OficinaPro
+
+Sistema para gerenciamento de oficinas automotivas.
+
+**React • Node.js • Supabase**
+
+<a href="https://github.com/EliasRibeiro220370/OficinaPro">💻 Repositório</a>
+
+</td>
+
+</tr>
+</table>
 </table>
 
 <br />
