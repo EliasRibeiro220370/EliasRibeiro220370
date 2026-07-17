@@ -61,15 +61,11 @@
 ###
 
 <div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/EliasRibeiro220370/EliasRibeiro220370/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=EliasRibeiro220370&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
-
-### 💬 Conecte-se Comigo
-
-A tecnologia é uma ferramenta poderosa para transformar ideias em realidade. Vamos construir algo juntos?
-
 
 
 
