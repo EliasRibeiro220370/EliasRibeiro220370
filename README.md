@@ -30,7 +30,7 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="supabase logo"  />
-  <im
+  <img width="12" />
 </div> 
 </p>
 
