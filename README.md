@@ -36,7 +36,8 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 
 ### 🛠️ Bagagem de Origem (Hardware & Automação)
 <p align="left">
-  <img src="https://shields.io" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="supabase logo" />
+  <img width="12" />
   <img src="https://shields.io" alt="Arduino" />
 </p>
 
