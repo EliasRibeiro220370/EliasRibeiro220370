@@ -87,7 +87,7 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 
 <p align="left">
   <a href="mailto:eliasribeiro220370@gmail.com" target="_blank">
-
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/[supabase].svg" height="32" width="32" />
   </a>
 </p>
 
