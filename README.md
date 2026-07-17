@@ -72,12 +72,6 @@
 
 A tecnologia é uma ferramenta poderosa para transformar ideias em realidade. Vamos construir algo juntos?
 
-<div align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</div>
-
 
 
 
