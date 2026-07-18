@@ -94,12 +94,9 @@ Sistema para gerenciamento de oficinas automotivas.
 
 ## ☑️ Vamos Conversar?
 
-<p align="left">
-  <a href="mailto:eliasribeiro220370@gmail.com" target="_blank">
-    <div data-importer="techs" align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Gmail/Gmail-Dark.svg" height="50" alt="Gmail logo"  />
-  <img width="12" />
-    </div>
+<p align="center">
+  <a href="mailto:eliasribeiro220370@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
