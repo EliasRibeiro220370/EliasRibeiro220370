@@ -96,7 +96,7 @@ Sistema para gerenciamento de oficinas automotivas.
 
 <p align="left">
   <a href="mailto:eliasribeiro220370@gmail.com" target="_blank">
-   <img src="https://unpkg.com" height="32" width="32" alt="Supabase Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
 
   </a>
 </p>
