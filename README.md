@@ -36,7 +36,7 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
 </div>
  🎓 Formações e Certificados
  **DevClub** — Especialização em Desenvolvimento FrontEnd
