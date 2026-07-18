@@ -96,7 +96,7 @@ Sistema para gerenciamento de oficinas automotivas.
 
 <p align="left">
   <a href="mailto:eliasribeiro220370@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="40" alt="gmail" />
 
   </a>
 </p>
