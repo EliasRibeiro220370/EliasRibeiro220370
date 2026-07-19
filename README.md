@@ -116,15 +116,6 @@ _"A tecnologia é uma ferramenta poderosa para transformar ideias em realidade."
   </a>
 </div>
 
-###
-
-
-
-###
-
-
-
-###
 
 
 
