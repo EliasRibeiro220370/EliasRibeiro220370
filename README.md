@@ -73,6 +73,54 @@ Aplicação moderna desenvolvida para otimizar o gerenciamento de oficinas autom
 
 </td>
 
+<td width="50%" align="center"><td width="50%" align="center">
+
+### 🏖️ Fábrica Maniele
+
+E-commerce completo desenvolvido para a Fábrica Maniele, oferecendo uma experiência moderna, rápida e intuitiva para compra de produtos personalizados. O projeto foi desenvolvido com foco em desempenho, acessibilidade, responsividade e excelente experiência do usuário.
+
+**React • TypeScript • Supabase**
+
+<a href="https://www.maniele.com.br">🌐 Visitar Projeto</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏖️ Fábrica Maniele
+
+E-commerce completo desenvolvido para a Fábrica Maniele, oferecendo uma experiência moderna, rápida e intuitiva para compra de produtos personalizados. O projeto foi desenvolvido com foco em desempenho, acessibilidade, responsividade e excelente experiência do usuário.
+
+**React • TypeScript • Supabase**
+
+<a href="https://www.maniele.com.br">🌐 Visitar Projeto</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏖️ Fábrica Maniele
+
+E-commerce completo desenvolvido para a Fábrica Maniele, oferecendo uma experiência moderna, rápida e intuitiva para compra de produtos personalizados. O projeto foi desenvolvido com foco em desempenho, acessibilidade, responsividade e excelente experiência do usuário.
+
+**React • TypeScript • Supabase**
+
+<a href="https://www.maniele.com.br">🌐 Visitar Projeto</a>
+
+</td>
+
+### 🏖️ Fábrica Maniele
+
+E-commerce completo desenvolvido para a Fábrica Maniele, oferecendo uma experiência moderna, rápida e intuitiva para compra de produtos personalizados. O projeto foi desenvolvido com foco em desempenho, acessibilidade, responsividade e excelente experiência do usuário.
+
+**React • TypeScript • Supabase**
+
+<a href="https://www.maniele.com.br">🌐 Visitar Projeto</a>
+
+</td>
+
+
+
 </tr>
 </table>
 </table>
