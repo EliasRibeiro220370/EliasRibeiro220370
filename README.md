@@ -66,7 +66,9 @@ E-commerce completo desenvolvido para a Fábrica Maniele, oferecendo uma experi�
 
 ### 🔧 OficinaPro
 
-Sistema para gerenciamento de oficinas automotivas.
+Sistema de Gestão para Oficinas Automotivas desenvolvido com React 19, TypeScript, Vite e Tailwind CSS.
+
+Aplicação moderna desenvolvida para otimizar o gerenciamento de oficinas automotivas, oferecendo controle de clientes, veículos, ordens de serviço e documentos, com funcionamento Offline First.
 
 **React • Node.js • Supabase**
 
