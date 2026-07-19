@@ -54,7 +54,9 @@ Hoje, utilizo essa mesma bagagem lógica e capacidade de resolução de problema
 
 ### 🏖️ Fábrica Maniele
 
-Site institucional desenvolvido para a Fábrica Maniele.
+A Fábrica Maniele é um e-commerce desenvolvido para proporcionar uma experiência de compra simples, moderna e eficiente.
+A plataforma permite que os clientes naveguem pelo catálogo, visualizem os detalhes dos produtos, adicionem itens ao carrinho, revisem o pedido e finalizem a compra diretamente pelo WhatsApp, agilizando o atendimento e aumentando a conversão de vendas.
+Todo o projeto foi desenvolvido utilizando tecnologias modernas do ecossistema React, priorizando desempenho, organização de código, acessibilidade e uma interface totalmente responsiva.
 
 **React • TypeScript • Supabase**
 
