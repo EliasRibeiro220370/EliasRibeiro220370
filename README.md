@@ -1,6 +1,3 @@
-<p align="center">
-  
-</p>
 
 <h1 align="center">Olá! 👋 Eu sou Elias Ribeiro</h1>
 
