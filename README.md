@@ -20,7 +20,7 @@ Minha trajetória na programação começou de uma forma diferente.
 
 Durante muitos anos atuei como **Eletricista Automotivo**, profissão que me ensinou a analisar problemas complexos e buscar soluções com lógica e precisão.
 
-Em determinado momento surgiu a necessidade de desenvolver uma ferramenta para facilitar diagnósticos eletrônicos em veículos. Foi então que conheci o **Arduino** e a linguagem **C++**.
+Em determinado momento na pandemia surgiu a necessidade de desenvolver uma ferramenta para resolver questões de diagnóstico eletrô-eletrônico em um veículo. Foi então que conheci o **Arduino** e a linguagem **C++**.
 
 A partir dessa experiência descobri minha paixão pelo desenvolvimento de software e iniciei minha transição de carreira para a programação.
 
