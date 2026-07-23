@@ -45,7 +45,7 @@ Hoje desenvolvo aplicações Front-End modernas utilizando React, TypeScript e J
 | 🛍️ **React E-commerce Showcase** | Versão demonstrativa baseada em um e-commerce desenvolvido para uma cliente real. Possui catálogo de produtos, carrinho de compras, checkout via WhatsApp, responsividade, acessibilidade e arquitetura moderna utilizando React, TypeScript e Supabase.<br><br>🔗 https://www.maniele.com.br |
 | 🚗 **Automotive SaaS Showcase** | Sistema de gestão para oficinas automotivas desenvolvido como demonstração de um Micro SaaS. Inclui cadastro de clientes, veículos, ordens de serviço, checklists, orçamentos e estrutura preparada para evolução da plataforma.<br><br><br><br>🔗 https://oficina-pro-gules.vercel.app |
 | 🍔 **Lanches Express Showcase** | Cardápio digital desenvolvido para restaurantes e lanchonetes, com foco em experiência do usuário, navegação intuitiva, categorias de produtos e integração com WhatsApp.<br><br><br><br>🔗 https://lanches-express.vercel.app |
-| 🧪 **Science Quiz Showcase** | Aplicação desenvolvida para uma Feira de Ciências, reunindo perguntas sobre Ciências, Meio Ambiente e Tecnologia. Conta com cronômetro, barra de progresso, gamificação e interface totalmente responsiva.<br><br> **Automotive SaaS Showcase**<br><br>🔗 https://feira-de-ciencias-rho.vercel.app |
+| 🧪 **Science Quiz Showcase** | Aplicação desenvolvida para uma Feira de Ciências, reunindo perguntas sobre Ciências, Meio Ambiente e Tecnologia. Conta com cronômetro, barra de progresso, gamificação e interface totalmente responsiva.<br><br>**Automotive SaaS Showcase**<br><br>🔗 https://feira-de-ciencias-rho.vercel.app |
 
 ---
 
