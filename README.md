@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="COLE_AQUI_O_LINK_DO_SEU_BANNER" width="100%" alt="Banner Elias Ribeiro"/>
+  
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou Elias Ribeiro</h1>
